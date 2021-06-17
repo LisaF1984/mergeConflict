@@ -1,3 +1,7 @@
 hello world from main branch
 
-i'm actually from the main branch so thank you!
+
+i'm actually from the main branch so thank you.... and ive been through a merge conflict!
+
+
+
